@@ -42,32 +42,13 @@
 ## 🐍 Snake Animation
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/output/snake.svg" alt="Snake animation" width="500"/>
+<img src="https://github.com/Pempho265/Pempho265/blob/output/github-contribution-grid-snake.gif" alt="Snake animation"/>
 
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/pempho">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pempho&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-</div>
 
 ---
 
-## 🎧 Recently Played on Spotify
-
-<div align="center">
-<a href="https://open.spotify.com/user/pempho">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=pempho&count=5&unique=false" alt="Spotify recently played"/>
-</a>
-</div>
-
----
 
 <div align="center">
 <h2 style="color:#00fff7;">💬 Let's Connect & Build Amazing Things!</h2>
