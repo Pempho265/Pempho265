@@ -42,9 +42,9 @@
 ## 🐍 Snake Animation
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Pempho Chibaya/Pempho Chibaya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pempho265/Pempho265/output/snake.svg" alt="Snake animation" />
 
-###
+##
 
 </div>
 
