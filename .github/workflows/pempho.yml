@@ -30,5 +30,16 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+
+      - name: List generated files
+        run: ls -la dist
+
+      - name: Commit and push snake.svg
+        run: |
+          git config user.name "Pempho265"
+          git config user.email "pemphochibaya@gmail.com"  
+          git add dist/snake.svg
+          git commit -m "Update snake.svg [skip ci]" || echo "No changes to commit"
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
