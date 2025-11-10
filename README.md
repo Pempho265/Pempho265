@@ -15,9 +15,32 @@
 
 </div>
 
-<p style="color:#00fff7; font-size: 1.2em;">
-💡 Creative Software Developer from Malawi | I turn ideas into cutting-edge, interactive, and user-friendly applications. Passionate about solving problems, innovating, and constantly learning — while having fun with code! 🚀
-</p>
+### 💡 About Me
+💡 **Creative Software Developer from Malawi** — I turn ideas into cutting-edge, interactive, and user-friendly applications.  
+Passionate about solving problems, innovating, and constantly learning — while having fun with code! 🚀  
+
+---
+
+## 🧩 Featured Projects
+
+### 🧠 **Mental Wellness App**
+A mobile application promoting mental health through journaling, AI chat support, mood tracking, breathing exercises, and community posts.  
+- **Tech:** Java, Firebase, Firestore, Gemini API, YouTube API  
+- **Highlights:** AI chatbot, mood tracker (1 entry/day), video integration, notifications  
+
+---
+
+### 🌿 **EcoHerb App**
+A herbal information platform that helps users discover herbal remedies and their benefits — focused on local Malawian herbs.  
+- **Tech:** Java, Firebase, XML (Android Studio)  
+- **Highlights:** Searchable herb database, local relevance, modern UI design  
+
+---
+
+### 📊 **Power BI Data Analytics**
+Data analytics and visualization dashboards developed during internship at *St. Joseph Hospital* for performance and resource tracking.  
+- **Tech:** Power BI, Excel  
+- **Highlights:** Interactive dashboards, data-driven insights for hospital management  
 
 ---
 
