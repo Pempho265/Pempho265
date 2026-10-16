@@ -1,13 +1,12 @@
-
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00fff7&height=260&section=header&text=Pempho%20Chibaya&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20Malawi%20%F0%9F%87%B2%F0%9F%87%BC&descSize=20&descAlignY=62" alt="Pempho Chibaya banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00fff7&height=260&section=header&text=Pempho%20Chibaya&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Software%20Developer%20%7C%20Malawi%20%F0%9F%87%B2%F0%9F%87%BC&descSize=20&descAlignY=60" alt="Pempho Chibaya banner" />
 </div>
 
 <!-- TYPING TAGLINE -->
 <div align="center">
   <a href="https://github.com/Pempho265">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;Passionate+about+Python+%26+Java;Building+fun+%26+impactful+projects;Always+learning+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FFF7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Mobile+Developer;Building+BusinessHub+%26+AI+Sales+Agents;Passionate+about+Python%2C+Java+%26+Flutter;Creating+software+for+African+markets;Always+learning+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +23,21 @@
   </a>
 </div>
 
----
+<br/>
+
+<!-- MATRIX HERO STRIP -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/matrix.svg" width="100%" alt="Build, ship, repeat" />
+</div>
+
+<br/>
+
+<!-- TECH MARQUEE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/marquee.svg" width="100%" alt="Scrolling tech stack" />
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 👨‍💻 About Me
 
@@ -37,7 +50,7 @@
 | 🌱 **Currently** | Sharpening full-stack skills across Python, Java & JavaScript                                           |
 | 📫 **Reach me**  | [LinkedIn](https://www.linkedin.com/in/pempho-chibaya) · [Instagram](https://www.instagram.com/_p3mpho) |
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🧩 Featured Projects
 
@@ -76,7 +89,7 @@
   </tr>
 </table>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🚧 More Projects & Innovation
 
@@ -113,37 +126,39 @@
         <img src="https://img.shields.io/badge/Education_Tech-2E8B57?style=flat-square&logo=bookstack&logoColor=white" alt="Education Technology" />
       </p>
     </td>
-    
-<td width="50%" valign="top">
-  <h3>⛳ CCL Club Management System</h3>
-  <p>A digital management platform developed for country club operations, featuring a club website, administrative tools, member management, and golf-related functionality.</p>
-  <p><b>✨ Highlights</b><br/>
-  Club website · Membership management · Admin dashboard · Golf course features</p>
-  <p>
-    <img src="https://img.shields.io/badge/Web_Development-1572B6?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Development" />
-    <img src="https://img.shields.io/badge/Management_System-203A43?style=flat-square" alt="Management System" />
-    <img src="https://img.shields.io/badge/Full_Stack-00A896?style=flat-square" alt="Full Stack Development" />
-  </p>
-</td>
-
+    <td width="50%" valign="top">
+      <h3>⛳ CCL Club Management System</h3>
+      <p>A digital management platform developed for country club operations, featuring a club website, administrative tools, member management, and golf-related functionality.</p>
+      <p><b>✨ Highlights</b><br/>Club website · Membership management · Admin dashboard · Golf course features</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web_Development-1572B6?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Development" />
+        <img src="https://img.shields.io/badge/Management_System-203A43?style=flat-square" alt="Management System" />
+        <img src="https://img.shields.io/badge/Full_Stack-00A896?style=flat-square" alt="Full Stack Development" />
+      </p>
+    </td>
   </tr>
 </table>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
 
-## 🛠️ Tech Stack
+## 🪐 My Tech Universe
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/orbit.svg" width="760" alt="Animated orbit of technologies I work with" />
+</div>
 
 <div align="center">
 
-|                       |                                                                                                                                         |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**         | <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css" alt="Languages" />                                                |
-| **Frameworks**        | <img src="https://skillicons.dev/icons?i=django,flutter,react" alt="Frameworks" />                                                      |
-| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres" alt="Databases and cloud" />                                          |
-| **Tools & OS**        | <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Tools and operating systems" />                                  |
+|                       |                                                                                                    |
+| --------------------- | -------------------------------------------------------------------------------------------------- |
+| **Languages**         | <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css" alt="Languages" />           |
+| **Frameworks**        | <img src="https://skillicons.dev/icons?i=django,flutter,react" alt="Frameworks" />                 |
+| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres" alt="Databases and cloud" />     |
+| **Tools & OS**        | <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Tools and operating systems" /> |
 
 </div>
 
+<div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🎯 What I'm Focused On
 
@@ -171,7 +186,7 @@
 
 I'm particularly interested in building and launching my own software products, developing solutions for African markets, and turning complex problems into simple digital experiences.
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🖥️ Live From My Terminal
 
@@ -183,16 +198,19 @@ I'm particularly interested in building and launching my own software products, 
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 😄 Fun Side of Me
 
 <div align="center">
 
-🍕 Fuelled by pizza & caffeine  •  🎧 Coding with my favourite tunes  •  🎮 Gaming on breaks 😹 Cat lover & meme enthusiast  •  🤖 *"Code is like humor. When you have to explain it, it's bad."*
+🍕 Fuelled by pizza & caffeine &nbsp;•&nbsp; 🎧 Coding with my favourite tunes &nbsp;•&nbsp; 🎮 Gaming on breaks
+<br/>
+😹 Cat lover & meme enthusiast &nbsp;•&nbsp; 🤖 *"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
 
+<div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🐍 Contribution Snake
 
@@ -200,7 +218,7 @@ I'm particularly interested in building and launching my own software products, 
   <img src="https://raw.githubusercontent.com/Pempho265/Pempho265/output/snake.svg" alt="Snake animation" />
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
   <h2>💬 Let's Connect & Build Amazing Things!</h2>
@@ -208,19 +226,19 @@ I'm particularly interested in building and launching my own software products, 
   <a href="https://www.linkedin.com/in/pempho-chibaya">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-
   <a href="https://github.com/Pempho265">
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   </a>&nbsp;&nbsp;
-
   <a href="https://www.instagram.com/_p3mpho">
     <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
   </a>
 
   <br/><br/>
 
-  <em>“Code. Innovate. Inspire.” 🌟</em>
+  <a href="https://github.com/Pempho265">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&italic=true&size=18&duration=2500&pause=800&color=B967FF&center=true&vCenter=true&width=500&lines=%E2%80%9CCode.+Innovate.+Inspire.%E2%80%9D+%F0%9F%8C%9F;Let's+build+something+great+together!" alt="Closing motto" />
+  </a>
 </div>
 
 <!-- FOOTER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,50:203a43,100:0f2027&height=100&section=footer&animation=twinkling" alt="footer" />
