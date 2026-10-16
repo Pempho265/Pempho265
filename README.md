@@ -3,6 +3,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00fff7&height=260&section=header&text=Pempho%20Chibaya&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Software%20Developer%20%7C%20Malawi%20%F0%9F%87%B2%F0%9F%87%BC&descSize=20&descAlignY=60" alt="Pempho Chibaya banner" />
 </div>
 
+<!-- LOGO -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/logo.svg" height="64" alt="Pempho logo" />
+</div>
+
+<br/>
+
 <!-- TYPING TAGLINE -->
 <div align="center">
   <a href="https://github.com/Pempho265">
@@ -41,13 +48,35 @@
 
 ## 👨‍💻 About Me
 
+> ⚡ **SilentCoder** — I let my code do the talking. 😎
+
+<table>
+  <tr>
+    <td valign="top" width="52%">
+      <p>
+        💻 Software developer by profession, <b>bug creator by accident</b>. 😂<br/><br/>
+        🚀 I turn coffee ☕ into code and ideas into applications.<br/><br/>
+        🧠 My brain runs on algorithms, random ideas, and 3 AM problem-solving sessions.<br/><br/>
+        🐛 I don't make mistakes — I create <i>undocumented features</i>.<br/><br/>
+        🎮 When I'm not coding, I'm probably gaming, exploring new tech, or planning my next big idea.<br/><br/>
+        🤖 Future tech entrepreneur, currently <b>debugging my way to success</b>.
+      </p>
+    </td>
+    <td valign="top" width="48%" align="center">
+      <img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/stats.svg" width="100%" alt="Animated developer stats" />
+    </td>
+  </tr>
+</table>
+
 > 💡 **Creative software developer from Malawi** — I turn ideas into cutting-edge, interactive and user-friendly applications. I love solving problems, innovating, and learning something new every day (while having fun with code 🚀).
 
 |                  |                                                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------------------------- |
+| 🥷 **Alias**     | SilentCoder                                                                                             |
 | 🌍 **Location**  | Malawi                                                                                                  |
 | 🎯 **Focus**     | Web apps, mobile apps & developer tooling                                                               |
 | 🌱 **Currently** | Sharpening full-stack skills across Python, Java & JavaScript                                           |
+| 🚀 **Mission**   | Becoming a tech entrepreneur, one shipped product at a time                                             |
 | 📫 **Reach me**  | [LinkedIn](https://www.linkedin.com/in/pempho-chibaya) · [Instagram](https://www.instagram.com/_p3mpho) |
 
 <div align="center"><img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/divider.svg" width="100%" alt="" /></div>
@@ -203,10 +232,33 @@ I'm particularly interested in building and launching my own software products, 
 ## 😄 Fun Side of Me
 
 <div align="center">
+  <img src="https://img.shields.io/badge/STATUS-DEBUGGING_MY_WAY_TO_SUCCESS-00fff7?style=for-the-badge&labelColor=0f2027" alt="Status" />
+  <img src="https://img.shields.io/badge/BUGS-CREATED_ACCIDENTALLY-ff7b72?style=for-the-badge&labelColor=0f2027" alt="Bugs" />
+  <img src="https://img.shields.io/badge/SLEEP-NOT_FOUND-b967ff?style=for-the-badge&labelColor=0f2027" alt="Sleep" />
+</div>
 
-🍕 Fuelled by pizza & caffeine &nbsp;•&nbsp; 🎧 Coding with my favourite tunes &nbsp;•&nbsp; 🎮 Gaming on breaks
 <br/>
-😹 Cat lover & meme enthusiast &nbsp;•&nbsp; 🤖 *"Code is like humor. When you have to explain it, it's bad."*
+
+<table>
+  <tr>
+    <td align="center" width="33%">🍕☕<br/><b>Fuel</b><br/>Pizza & caffeine keep the commits coming</td>
+    <td align="center" width="33%">🎧<br/><b>Soundtrack</b><br/>Coding with my favourite tunes on repeat</td>
+    <td align="center" width="33%">🎮<br/><b>Side Quests</b><br/>Gaming on breaks, boss fights after deployments</td>
+  </tr>
+  <tr>
+    <td align="center">😹<br/><b>Meme Lab</b><br/>Cat lover & meme enthusiast</td>
+    <td align="center">🔭<br/><b>Tech Explorer</b><br/>Always poking at the next new tool</td>
+    <td align="center">💡<br/><b>Big Idea Factory</b><br/>Planning the next big idea at 3 AM</td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pempho265/Pempho265/main/assets/bug.svg" width="100%" alt="A bug crawling across a debug log" />
+</div>
+
+<div align="center">
+
+🤖 *"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
 
